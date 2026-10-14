@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Menu</string>
+    <string name="app_name">Меню</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_about">О программе</string>
+    <string name="menu_help">Справка</string>
+    <string name="menu_save">Сохранить</string>
+    <string name="menu_exit">Выход</string>
+    <string name="menu_theme_light">Светлая тема</string>
+    <string name="menu_theme_dark">Тёмная тема</string>
+    <string name="popup_like">Нравится</string>
+    <string name="popup_share">Поделиться</string>
+    <string name="popup_info">Информация</string>
+    <string name="popup_delete">Удалить</string>
+    <string name="popup_copy">Копировать</string>
+    <string name="popup_paste">Вставить</string>
+    <string name="popup_cut">Вырезать</string>
+    <string name="hello">Работа с Popup Menu</string>
+    <string name="hint_long_press">Долгое нажатие на элемент → PopupMenu</string>
+    <string name="img_content_desc">Картинка енота</string>
+    <string name="btn_label">Нажми на меня</string>
+    <string name="selected">Выбрано: %1$s</string>
 </resources>

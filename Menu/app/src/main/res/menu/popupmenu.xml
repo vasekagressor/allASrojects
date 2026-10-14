@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popup_like"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="@string/popup_like" />
+
+    <item
+        android:id="@+id/popup_share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/popup_share" />
+
+    <item
+        android:id="@+id/popup_info"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/popup_info" />
+
+    <item
+        android:id="@+id/popup_delete"
+        android:enabled="false"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/popup_delete" />
+
+</menu>
