@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Визитка</string>
-    <string name="dev_name">Василий Кочетков</string>
-    <string name="dev_position">Разработчик с 9 летним стажем</string>
-    <string name="dev_phone">+7 (993) 434-60-58</string>
-    <string name="dev_email">king_agressor@vk.com</string>
-</resources>

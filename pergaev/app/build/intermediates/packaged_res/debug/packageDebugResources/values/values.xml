@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Визитка</string>
+    <string name="dev_email">king_agressor@vk.com</string>
+    <string name="dev_name">Василий Кочетков</string>
+    <string name="dev_phone">+7 (993) 434-60-58</string>
+    <string name="dev_position">Разработчик с 9 летним стажем</string>
+    <style name="Base.Theme.Pergaev" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Pergaev" parent="Base.Theme.Pergaev"/>
+</resources>

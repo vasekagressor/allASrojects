@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#FF212121</color>
+    <color name="bg_light">#FFF5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Меню</string>
+    <string name="btn_label">Нажми на меня</string>
+    <string name="hello">Работа с Popup Menu</string>
+    <string name="hint_long_press">Долгое нажатие на элемент → PopupMenu</string>
+    <string name="img_content_desc">Картинка енота</string>
+    <string name="menu_about">О программе</string>
+    <string name="menu_exit">Выход</string>
+    <string name="menu_help">Справка</string>
+    <string name="menu_save">Сохранить</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_theme_dark">Тёмная тема</string>
+    <string name="menu_theme_light">Светлая тема</string>
+    <string name="popup_copy">Копировать</string>
+    <string name="popup_cut">Вырезать</string>
+    <string name="popup_delete">Удалить</string>
+    <string name="popup_info">Информация</string>
+    <string name="popup_like">Нравится</string>
+    <string name="popup_paste">Вставить</string>
+    <string name="popup_share">Поделиться</string>
+    <string name="selected">Выбрано: %1$s</string>
+    <style name="Base.Theme.Menu" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Menu" parent="Base.Theme.Menu"/>
+</resources>

@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id emailTextView
+id nameTextView
+id phoneTextView
+id photoImageView
+id positionTextView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string dev_email
+string dev_name
+string dev_phone
+string dev_position
+style Base.Theme.Pergaev
+style Theme.Pergaev
+xml backup_rules
+xml data_extraction_rules
